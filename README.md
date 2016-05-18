@@ -1,1 +1,1 @@
-This README was made automatically by makestuff and should be changed.
+Stuff related to constructing orthogonal bases for interaction terms
